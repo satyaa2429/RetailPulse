@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Satya Shop \u00b7 Sales & Inventory",
+  "short_name": "Satya Shop",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#163438",
+  "background_color": "#f8f7ef",
+  "description": "Sales, inventory, transaction alerts and digital bills.",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

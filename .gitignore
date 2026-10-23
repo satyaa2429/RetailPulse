@@ -1,0 +1,17 @@
+﻿
+.venv/
+__pycache__/
+*.pyc
+*.sqlite*
+*.db
+*.db-*
+shop-data/
+stream-demo/
+backups/
+logs/
+run/
+exports/
+downloads/
+.env
+.env.*
+forecast.json
